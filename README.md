@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Pedro 👋
 
-<!--
-**pedrorlima/pedrorlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a [Analytics Engineer @ Nubank](http://building.nubank.com/analytics-engineering/) and I'm passionate about building scalable, efficient data systems through clean, well-governed data.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Tools:** Spark, Scala, Python, SQL, pandas
+- **Cloud & Platforms:** AWS, Databricks
+- **Other:** Data Warehousing, Pipline Modeling, Data Governance, ELT/ETL
+  
+## 📌 Topics I Work With
+
+- Data Engineering
+- Analytics Engineering
+- Data Governance
+- Scalable Data Pipelines
+- Dashboards & Data Visualization
+- Cross-functional Data Solutions
+- Data Quality Automation
+
+## 🌍 Languages
+
+- Portuguese: Native  
+- English: Fluent  
+- Japanese: Intermediate (JLPT N3)
+
+## 🌍 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-r-lima)  
+- 📧 [024.prlima@gmail.com](mailto:024.prlima@gmail.com)
+
+---
+
+Thanks for visiting my GitHub! 🚀

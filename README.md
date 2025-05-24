@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro 👋
 
-I currently work as aa [Analytics Engineer @ Nubank](http://building.nubank.com/analytics-engineering/) and I'm passionate about building scalable, efficient data systems through clean, well-governed data.
+I currently work as an [Analytics Engineer @ Nubank](http://building.nubank.com/analytics-engineering/) and I'm passionate about building scalable, efficient data systems through clean, well-governed data.
 
 ## 🛠️ Tech Stack
 

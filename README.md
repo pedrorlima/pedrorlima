@@ -6,7 +6,7 @@ I currently work as an [Analytics Engineer @ Nubank](http://building.nubank.com/
 
 - **Languages & Tools:** Spark, Scala, Python, SQL, pandas
 - **Cloud & Platforms:** AWS, Databricks
-- **Other:** Data Warehousing, Pipline Modeling, Data Governance, ELT/ETL
+- **Other:** Data Warehousing, Pipeline Modeling, Data Governance, ELT/ETL
   
 ## 📌 Topics I Work With
 

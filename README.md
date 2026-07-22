@@ -29,6 +29,7 @@ Working as an [Analytics Engineer @ Nubank](http://building.nubank.com/analytics
  
 - Scala
 - Python
+- Clojure
 - SQL
 
 </details>

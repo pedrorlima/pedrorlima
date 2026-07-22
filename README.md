@@ -1,12 +1,10 @@
 # Hi, I'm Pedro 👋
 
-[Analytics Engineer @ Nubank](http://building.nubank.com/analytics-engineering/) building distributed data platforms, scalable ETL frameworks, and AI-powered engineering tooling.
-
-Currently working with large-scale Spark applications, Scala, Python, Databricks and AWS.
+Working as an [Analytics Engineer @ Nubank](http://building.nubank.com/analytics-engineering/), building distributed data platforms, scalable ETL frameworks, and AI-powered engineering tooling. Currently working with large-scale Spark applications, Scala, Python, Databricks and AWS.
 
 ---
 
-## About Me
+## 👀 About Me
 
 - ⚙️ Working with Spark in Scala (and dabbling in Clojure)
 - 🌎 Based in São Paulo, Brazil

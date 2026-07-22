@@ -1,34 +1,71 @@
-# Hi there, I'm Pedro 👋
+# Hi, I'm Pedro 👋
 
-I currently work as an [Analytics Engineer @ Nubank](http://building.nubank.com/analytics-engineering/) and I'm passionate about building scalable, efficient data systems through clean, well-governed data.
+[Analytics Engineer @ Nubank](http://building.nubank.com/analytics-engineering/) building distributed data platforms, scalable ETL frameworks, and AI-powered engineering tooling.
 
-## 🛠️ Tech Stack
-
-- **Languages & Tools:** Spark, Scala, Python, SQL, pandas
-- **Cloud & Platforms:** AWS, Databricks
-- **Other:** Data Warehousing, Pipeline Modeling, Data Governance, ELT/ETL
-  
-## 📌 Topics I Work With
-
-- Data Engineering
-- Analytics Engineering
-- Data Governance
-- Scalable Data Pipelines
-- Dashboards & Data Visualization
-- Cross-functional Data Solutions
-- Data Quality Automation
-
-## 🌍 Languages
-
-- Portuguese: Native  
-- English: Fluent  
-- Japanese: Intermediate (JLPT N3)
-
-## 🌍 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-r-lima)  
-- 📧 [024.prlima@gmail.com](mailto:024.prlima@gmail.com)
+Currently working with large-scale Spark applications, Scala, Python, Databricks and AWS.
 
 ---
 
-Thanks for visiting my GitHub! 🚀
+## About Me
+
+- ⚙️ Working with Spark in Scala (and dabbling in Clojure)
+- 🌎 Based in São Paulo, Brazil
+- 🇯🇵 Studying Japanese (JLPT N3 → N2)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+- Scala
+- Python
+- SQL
+
+**Data Engineering**
+
+- Apache Spark
+- Databricks
+- Delta Lake
+- Airflow
+- dbt
+- Pandas
+
+**Cloud**
+
+- AWS
+
+**Software Engineering**
+
+- CI/CD
+- Test-Driven Development
+- Distributed Systems
+- Data Architecture
+- Data Governance
+
+**AI**
+
+- Agentic AI
+- LLM Applications
+- AI-assisted Development
+
+---
+
+## 📌 What I'm interested in
+
+- Distributed data processing
+- Data platform engineering
+- Software architecture
+- AI for engineering productivity
+- Data quality & governance
+
+---
+
+## 🤝 Let's Connect!
+
+- LinkedIn: https://linkedin.com/in/pedrorlima
+- GitHub: https://github.com/pedrorlima
+ 
+---
+
+Thanks for visiting my GitHub! 

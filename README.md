@@ -9,43 +9,7 @@ Working as an [Analytics Engineer @ Nubank](http://building.nubank.com/analytics
 - ⚙️ Working with Spark in Scala (and dabbling in Clojure)
 - 🌎 Based in São Paulo, Brazil
 - 🇯🇵 Studying Japanese (JLPT N3 → N2)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-- Scala
-- Python
-- SQL
-
-**Data Engineering**
-
-- Apache Spark
-- Databricks
-- Delta Lake
-- Airflow
-- dbt
-- Pandas
-
-**Cloud**
-
-- AWS
-
-**Software Engineering**
-
-- CI/CD
-- Test-Driven Development
-- Distributed Systems
-- Data Architecture
-- Data Governance
-
-**AI**
-
-- Agentic AI
-- LLM Applications
-- AI-assisted Development
+- 📖 Currently reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 
 ---
 
@@ -59,10 +23,57 @@ Working as an [Analytics Engineer @ Nubank](http://building.nubank.com/analytics
 
 ---
 
+## 🛠️ Tech Stack
+<details>
+ <summary><b>Languages</b></summary>
+ 
+- Scala
+- Python
+- SQL
+
+</details>
+<details> 
+ <summary><b>Data Engineering</b></summary>
+ 
+- Apache Spark
+- Databricks
+- Delta Lake
+- Airflow
+- dbt
+- Pandas
+
+</details>
+<details>
+ <summary><b>Software Engineering</b></summary>
+ 
+- CI/CD
+- Test-Driven Development
+- Distributed Systems
+- Data Architecture
+- Data Governance
+
+</details>
+<details>
+ <summary><b>Cloud</b></summary>
+ 
+ - AWS
+  
+</details>
+<details>
+ <summary><b>AI</b></summary>
+ 
+- Agentic AI
+- LLM Applications
+- AI-assisted Development
+  
+</details>
+
+---
+
 ## 🤝 Let's Connect!
 
-- LinkedIn: https://linkedin.com/in/pedrorlima
-- GitHub: https://github.com/pedrorlima
+ - LinkedIn: https://linkedin.com/in/pedrorlima
+ - GitHub: https://github.com/pedrorlima
  
 ---
 

@@ -7,9 +7,9 @@ Working as an [Analytics Engineer @ Nubank](http://building.nubank.com/analytics
 ## 👀 About Me
 
 - ⚙️ Working with Spark in Scala (and dabbling in Clojure)
+- 📖 Currently reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 - 🌎 Based in São Paulo, Brazil
 - 🇯🇵 Studying Japanese (JLPT N3 → N2)
-- 📖 Currently reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 
 ---
 
